@@ -1,0 +1,10 @@
+item {
+    name: "enemyBody",
+    id: 1,
+    display_name: "enemyBody"
+}
+item {
+    name: "enemyHead",
+    id: 2,
+    display_name: "enemyHead"
+}
