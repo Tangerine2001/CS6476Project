@@ -6,4 +6,4 @@
 * Max Tang
 * Devanshu Tiwari
 
-[Link to website](https://youtu.be/dQw4w9WgXcQ?si=k_PU4R9kHwMXg6MQ](https://benguins10.github.io/CS6476/)https://benguins10.github.io/CS6476/)
+[Link to website](https://benguins10.github.io/CS6476/)
